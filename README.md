@@ -62,6 +62,10 @@ The following additional project requirements should be considered before publis
 - **Code Splitting**: Ensure code splitting is implemented to load only the necessary components initially and dynamically load other components as needed.
 
   .
+## Contact Information
+Email: ezeakudoluchinemerem@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/david-ezeakudolu-11003117b/
 
 ## License
 
